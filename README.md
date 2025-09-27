@@ -1,4 +1,4 @@
-# LAPD Crime Dashboard (2020–2025)
+# LAPD Crime Dashboard (2020–2025) - Power BI Project
 
 ## Introduction
 This project presents an interactive dashboard built to explore and visualize crime data reported by the Los Angeles Police Department (LAPD). The dashboard provides insights into crime patterns across multiple years, helping users better understand trends in public safety, law enforcement activity, and crime distribution over time.  
